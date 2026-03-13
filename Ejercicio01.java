@@ -2,7 +2,7 @@
 package practicas;
 
 
-public class Ejercicios01 { 
+public class Ejercicio01 { 
 public static void main(String[] args){
  int notaMaxima= 20;
 int examen1= 14;

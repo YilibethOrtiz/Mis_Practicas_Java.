@@ -1,7 +1,7 @@
 
 package practicas;
 
-public class Ejercicios03 {
+public class Ejercicio03 {
     
    public static void main(String[] args){
      String metaNombre= "Ventas de Cuentas Streaming";

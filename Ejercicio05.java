@@ -1,7 +1,7 @@
 
 package practicas;
 
-public class Ejercicios05 {
+public class Ejercicio05 {
     public static void main(String[] args){
        String materia= "Programacion Java";
     int totalClases= 20;
