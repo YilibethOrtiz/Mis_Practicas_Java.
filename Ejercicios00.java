@@ -1,7 +1,7 @@
 
 package practicas;
 
-public class MisPracticasJava {
+public class Ejercicios00 {
 
     public static void main(String[] args) {
   

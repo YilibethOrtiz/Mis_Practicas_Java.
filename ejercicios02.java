@@ -1,7 +1,7 @@
 
 package practicas;
 
-public class ejerciciosTres {
+public class Ejercicios02 {
    public static void main(String[] args){
     String cliente= "Distribuidora los Olivos";
 String servicio= "Diseño de Marca + Gestion de Tiktok ";

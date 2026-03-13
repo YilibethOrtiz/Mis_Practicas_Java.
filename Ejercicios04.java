@@ -1,7 +1,7 @@
 
 package practicas;
 
-public class ejeciciosSeis {
+public class Ejercicios04 {
     public static void main(String[] args){
    String cod_Producto1= "A001-HL-2026";
  String nombre= "Choco Ramo";
